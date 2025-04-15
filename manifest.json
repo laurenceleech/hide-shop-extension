@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Shop Modal Hider",
+    "name": "Shop Pay Modal Hider",
     "version": "1.0",
     "description": "Hide the Shop Pay app popup modal",
     "permissions": [
